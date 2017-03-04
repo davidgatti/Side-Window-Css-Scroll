@@ -10,9 +10,9 @@ If you've enjoyed this article/project, please consider giving it a 🌟. Also c
 
 You can follow me on social media 🐙😇, at the following locations:
 
-- [GitHub account](https://github.com/davidgatti)
-- [Twitter.com](https://twitter.com/dawidgatti)
-- [Instagram.com](https://www.instagram.com/gattidavid/)
+- [GitHub](https://github.com/davidgatti)
+- [Twitter](https://twitter.com/dawidgatti)
+- [Instagram](https://www.instagram.com/gattidavid/)
 
 ## More about me
 
