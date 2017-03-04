@@ -16,7 +16,7 @@ You can follow me on social media 🐙😇, at the following locations:
 
 ## More about me
 
-I don’t only live on GitHub I try to do many things not to get bored 🙃. To learn more about me, you can visit the following links:
+I don’t only live on GitHub, I try to do many things not to get bored 🙃. To learn more about me, you can visit the following links:
 
 - [Podcasts](http://david.gatti.pl/podcasts)
 - [Articles](http://david.gatti.pl/articles)
